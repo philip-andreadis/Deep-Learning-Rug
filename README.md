@@ -6,7 +6,9 @@ Philip Andreadis
 
 Chryssa Nambouri
 
-Christodoulos Hadjichristodoulou
+Christodoulos Hadjichristodoulou  
+
+[Scientific report](https://github.com/philip-andreadis/Deep-Learning-Rug/blob/main/ImageColorizationWithCGAN.pdf)
 
 ---
 
