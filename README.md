@@ -8,7 +8,7 @@ Chryssa Nambouri
 
 Christodoulos Hadjichristodoulou  
 
-[Scientific report](https://github.com/philip-andreadis/Deep-Learning-Rug/blob/main/ImageColorizationWithCGAN.pdf)
+You can find the scientific report [here](https://github.com/philip-andreadis/Deep-Learning-Rug/blob/main/ImageColorizationWithCGAN.pdf)
 
 ---
 
